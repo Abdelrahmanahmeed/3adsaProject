@@ -1,5 +1,5 @@
 import { HiOutlineDocumentText, HiOutlineEmojiSad, HiOutlineMenu, HiOutlineRefresh, HiOutlineViewGrid } from "react-icons/hi";
-import DataPosts from "../data/posts.json";
+import DataPosts from "../Data/Posts.json";
 import { Link, useSearchParams } from "react-router-dom";
 import { useState } from "react";
 import { FaChevronLeft, FaChevronRight, FaClock, FaSearch } from "react-icons/fa";

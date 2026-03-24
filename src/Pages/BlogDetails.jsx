@@ -1,6 +1,6 @@
 
 import { useParams, Link } from "react-router-dom";
-import DataPosts from "../data/posts.json";
+import DataPosts from "../Data/Posts.json";
 import {
   FaChevronLeft,
   FaHome,

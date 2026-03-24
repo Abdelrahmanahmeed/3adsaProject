@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import DataPosts from "../data/posts.json";
+import DataPosts from "../Data/Posts.json";
 import Swal from 'sweetalert2';
 import {
   FaArrowLeft,
